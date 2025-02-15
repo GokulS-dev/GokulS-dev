@@ -26,4 +26,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gokuls-dev&show_icons=true&locale=en" alt="gokuls-dev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gokuls-dev&" alt="gokuls-dev" /></p>
