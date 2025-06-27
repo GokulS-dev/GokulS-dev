@@ -5,7 +5,6 @@
       <p><strong>A passionate MERN Web Application & Flutter Mobile Application Developer.</strong></p>
       <ul>
         <li>🔭 I’m currently working on <strong>MY SELF GROWTH</strong></li>
-        <li>👯 I’m looking to collaborate on <strong>ANYONE</strong></li>
         <li>🌱 I’m currently learning <strong>FLUTTER</strong></li>
         <li>💬 Ask me about <strong>ANYTHING</strong></li>
         <li>📫 How to reach me: <a href="mailto:gokulsoffl@gmail.com">gokulsoffl@gmail.com</a></li>
